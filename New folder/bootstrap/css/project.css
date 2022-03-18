@@ -1,0 +1,51 @@
+body{
+    background-color: gray;
+}
+.navbar-brand {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 3rem;
+   
+}
+.bg-dark {
+    background-color: rgb(54, 110, 110)!important;
+}
+.add-btn{
+    display: flex;
+    justify-content: end;
+    font-family: "Open Sans Condensed";
+}
+.nav-link {
+    font-family: "Open Sans Condensed";
+    font-weight: bold;
+    font-size: 1.25rem;
+}
+.head-line{
+    text-align: center;
+    padding-top: 5%;
+    font-family:Berlin Sans FB Demi;
+    font-size: 3rem;
+    background-color: blue;
+    color:aqua;
+    margin-bottom: 3rem;
+    
+    
+}
+.skill-one{
+    /* text-align: center; */
+    font-size: 3rem;    
+    font-family: 'Times New Roman', Times, serif;
+  
+}
+.love{
+    font-style: italic;
+   color: rgb(245, 252, 249);
+   font-size: 2rem;
+}
+.back{
+    font-size: 3rem;    
+    font-family: 'Times New Roman', Times, serif;
+}
+.deve{
+    font-size: 3rem;    
+    font-family: 'Times New Roman', Times, serif;
+}

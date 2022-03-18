@@ -1,0 +1,133 @@
+
+.navbar-brand {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 3rem;
+    /* float: right;
+     align-content: center;   
+    left: 5rem;
+    right: 5rem; */ 
+     
+}
+.bg-dark {
+    background-color:chartreuse!important;
+}
+
+.add-btn{
+    display: flex;
+    justify-content: end;
+    font-family: "Open Sans Condensed";
+   
+}
+.nav-link {
+    font-family: "Open Sans Condensed";
+    font-weight: bold;
+    font-size: 1.25rem;
+    /* color: black; */
+   
+}
+h1{ 
+    color:goldenrod;
+    text-align: center;
+    font-size: 20rem;
+    font-weight: 400;
+    font-family: Buxton Sketch;
+}
+.head{
+
+    color:goldenrod;
+    text-align: center;
+    font-size: 8rem;
+    font-weight: 400;
+    font-family: Buxton Sketch;
+}
+
+.first-job{
+    color: rgb(194,224,163);
+    /* text-align: center; */
+    /* justify-content: center; */
+    background-color: rgb(21,47,0);
+
+   
+}
+.first-job-first{
+    font-size: 4rem;
+    font-weight: 400;
+    color: rgb(242,196,115);
+    text-align: center;
+    justify-content: center;
+
+}
+.first-job-second{
+    font-size: 2rem;
+    text-align: center;
+    justify-content: center;
+
+}
+.first-job-third{
+    font-size: 3rem;
+    font-weight: 200; 
+    color: rgb(242,196,115);
+    text-align: center;
+    justify-content: center;
+   
+}
+
+.second-job{  
+    color: rgb(194,224,163);
+    background-color: rgb(36,20,47);
+    text-align: center;
+    justify-content: center;
+   margin-bottom: auto;
+   text-align: center;
+    justify-content: center;
+}
+.second-job-first{
+    font-size: 3rem;
+    font-weight: 400;
+    color: rgb(139,195,0);
+    text-align: center;
+    justify-content: center;
+}
+.second-job-second{
+    font-size: 2rem;
+    text-align: center;
+    justify-content: center;
+}
+.second-job-third{
+    font-size: 3rem;
+    font-weight: 200; 
+    color: rgb(139,195,0);
+    text-align: center;
+    justify-content: center;
+}
+
+.third-job{
+    
+    color: rgb(194,224,163);
+    text-align: center;
+    justify-content: center;
+    margin-bottom: auto;
+    background-color:rgb(62,86,135);
+}
+.third-job-first{
+    font-size: 4rem;
+    font-weight: 400;
+    color: cyan;
+   
+    text-align: center;
+    justify-content: center;
+}
+.third-job-second{
+    font-size: 2rem;
+    text-align: center;
+    justify-content: center;
+}
+.third-job-third{
+    font-size: 3rem;
+    font-weight: 200; 
+    color: cyan;
+    text-align: center;
+    justify-content: center;
+}
+
+

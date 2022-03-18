@@ -1,0 +1,27 @@
+.navbar-brand {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 3rem;
+   
+}
+.bg-dark {
+    background-color: rgb(54, 110, 110)!important;
+}
+.add-btn{
+    display: flex;
+    justify-content: end;
+    font-family: "Open Sans Condensed";
+}
+.nav-link {
+    font-family: "Open Sans Condensed";
+    font-weight: bold;
+    font-size: 1.25rem;
+}
+b.head-one{
+    font-size: 2rem;
+    font-family: 'Times New Roman', Times, serif;
+   font-weight:bolder;
+}
+.head{
+    font-size: 1.50rem;
+    font-family: 'Times New Roman', Times, serif; 
+}

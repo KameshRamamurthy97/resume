@@ -1,0 +1,59 @@
+ body{
+    background-color: rgb(49, 219, 34);
+} 
+.navbar-brand {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 3rem;
+   
+}
+.bg-dark {
+    background-color: rgb(54, 110, 110)!important;
+}
+.add-btn{
+    display: flex;
+    justify-content: end;
+    font-family: "Open Sans Condensed";
+}
+.nav-link {
+    font-family: "Open Sans Condensed";
+    font-weight: bold;
+    font-size: 1.25rem;
+}
+h1{
+    
+    color: rgb(218,38,103);
+    text-align: center;
+    font-family: Chiller;
+    /* font-size: 99px; */
+    font-weight: bolder;
+    
+    /* background-image: url(./education-powerpoint-background-images-hd-2-11624479925ymmbq73hmy.jpg); */
+}
+.our-story-image
+{
+    float: left;
+    /* display: flex; */
+    justify-content: center;
+    /* height: 30rem; */
+}
+.our-story-text{
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    color: rgb(59,93,120);
+}
+.our-story-first{
+    font-size: 5rem;
+    font-weight: bolder;
+    
+}
+.our-story-second{
+    font-size: 3rem;   
+    font-weight: lighter;
+}
+.our-story-third{
+    font-size: 2rem;
+    /* font-weight: 400; */
+    font-weight: lighter;
+}

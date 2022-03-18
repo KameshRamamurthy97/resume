@@ -1,0 +1,56 @@
+body{
+    background-color: rgb(13,72,109);
+}
+.navbar-brand {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 3rem;
+   
+}
+.bg-dark {
+    background-color: rgb(54, 110, 110)!important;
+}
+.add-btn{
+    display: flex;
+    justify-content: end;
+    font-family: "Open Sans Condensed";
+}
+.nav-link {
+    font-family: "Open Sans Condensed";
+    font-weight: bold;
+    font-size: 1.25rem;
+}
+
+
+.about-image{
+    display: flex;
+    justify-content: left;
+    /* padding-top: 10%;   */
+    /* width: 5rem;
+    height: 5rem; */
+}
+h1{
+    /* text-align: left; */
+    font-family: Algerian;
+    color: cornsilk;
+}
+ .about-text{
+    align-content:left;
+    text-align: left;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 2rem;
+    color: rgb(255, 250, 246);
+    
+    padding-left: 10%;
+} 
+.about-text-one{
+    font-size: 1rem;
+    
+}
+b.first{
+    color: aliceblue;
+    font-size: 2rem;
+}
+.about-address{
+    font-size: 2rem;
+    color: aliceblue;
+}

@@ -1,0 +1,55 @@
+body{
+
+    background-color: rgba(0, 4, 255, 0.514);
+}
+.navbar-brand {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 3rem;
+    /* float: right;
+     align-content: center;   
+    left: 5rem;
+    right: 5rem; */ 
+     color: chartreuse;
+}
+.bg-dark {
+    background-color:rgb(20, 22, 17)!important;
+}
+
+.add-btn{
+    display: flex;
+    justify-content: end;
+    font-family: "Open Sans Condensed";
+   
+}
+.nav-link {
+    font-family: "Open Sans Condensed";
+    font-weight: bold;
+    font-size: 1.25rem;
+    color: black;
+   
+}
+.first{
+    justify-content: center;
+    font-size: 2rem;
+    display: flex;
+    text-align: center;
+    /* margin-top: 10rem; */
+}
+.firstpage-first{
+    font-size: 5rem;
+    color: blanchedalmond;
+    /* font-size:6rem; */
+    font-weight: 600;
+    font-style: italic;
+}
+.firstpage-second{
+    font-size: 8rem;
+    color: #23ffff;
+    font-size: 4rem;
+}
+.firstpage-third{
+    font-size: 3rem;
+    color: rgb(6, 71, 250);
+    font-size: 3rem;
+}
+

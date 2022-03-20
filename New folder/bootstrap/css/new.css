@@ -29,27 +29,28 @@ body{
    
 }
 .first{
+
     justify-content: center;
-    font-size: 2rem;
+     font-size: 2rem; 
     display: flex;
     text-align: center;
-    /* margin-top: 10rem; */
+     margin-top: 10rem; 
 }
 .firstpage-first{
-    font-size: 5rem;
+    /* font-size: 5rem; */
     color: blanchedalmond;
     /* font-size:6rem; */
     font-weight: 600;
     font-style: italic;
 }
 .firstpage-second{
-    font-size: 8rem;
+    /* font-size: 8rem; */
     color: #23ffff;
     font-size: 4rem;
 }
 .firstpage-third{
-    font-size: 3rem;
+    /* font-size: 3rem; */
     color: rgb(6, 71, 250);
-    font-size: 3rem;
+  
 }
 
